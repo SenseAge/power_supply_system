@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>562313903</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\log_debug\log_debug.c</file>
+      <file>$PROJ_DIR$\log_debug\log_debug.h</file>
+      <file>$PROJ_DIR$\log_debug\data_process_center.c</file>
+      <file>$PROJ_DIR$\log_debug\data_process_center.h</file>
+      <file>$PROJ_DIR$\led\led.c</file>
+      <file>$PROJ_DIR$\led\led.h</file>
+      <file>$PROJ_DIR$\button_detection\button_detection.c</file>
+      <file>$PROJ_DIR$\button_detection\button_detection.h</file>
+      <file>$PROJ_DIR$\timer\timer.c</file>
+      <file>$PROJ_DIR$\timer\timer.h</file>
+      <file>$PROJ_DIR$\low_power\low_power.c</file>
+      <file>$PROJ_DIR$\low_power\low_power.h</file>
+      <file>$PROJ_DIR$\STM8L15x_StdPeriph_Driver\inc\stm8l15x.h</file>
+      <file>$PROJ_DIR$\STM8L15x_conf_it\stm8l15x_conf.h</file>
+      <file>$PROJ_DIR$\STM8L15x_conf_it\stm8l15x_it.c</file>
+      <file>$PROJ_DIR$\STM8L15x_conf_it\stm8l15x_it.h</file>
+    </outputs>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
