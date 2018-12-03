@@ -1,1 +1,4 @@
 Title: A small power supply system which include communication/wake up/button dection
+Platform: STM8L(8bit mcu)
+Debugger: ST-LINK/V2
+Develope Enviroment:IAR Embedded Workbench(IAR registration refer to https://www.jb51.net/softjc/539669.html)
